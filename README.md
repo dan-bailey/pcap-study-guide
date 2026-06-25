@@ -20,6 +20,12 @@
 
 ## Section 1: Modules and Packages (12%)
 
+### Video Resources
+
+- [Python Tutorial: Import Modules and Exploring The Standard Library](https://www.youtube.com/watch?v=CqvZ3vGoGs0) — Corey Schafer covers the essentials of importing modules and working with the standard library. One of the most-watched Python module tutorials.
+- [Python 3 Tutorial #19 - Modules & Packages](https://www.youtube.com/watch?v=f26nAmfJggw) — Tech With Tim walks through creating and using modules and packages from scratch.
+- [Python Import Statements, Modules & Packages | Best Practices](https://www.youtube.com/watch?v=Lo3wVhNU3n4) — Covers best practices for writing clean, well-organized import statements.
+
 ### 1.1 Import and Use Modules and Packages
 
 #### Import Variants
@@ -239,6 +245,12 @@ from mypackage import module2
 
 ## Section 2: Exceptions (14%)
 
+### Video Resources
+
+- [Python Tutorial: Using Try/Except Blocks for Error Handling](https://www.youtube.com/watch?v=NIWwJbo-9_8) — Corey Schafer's definitive guide to Python exception handling, with clear examples for every key concept.
+- [Python Exception Handling ⚠️](https://www.youtube.com/watch?v=j_q6NGOwDJo) — Bro Code covers all common exception types with concise, practical examples. Highly commented and liked.
+- [Python Exception Handling: A Beginner's Guide to try, except, else, and finally](https://www.youtube.com/watch?v=kotCJoPBruM) — Comprehensive walkthrough of the full exception handling syntax including custom exceptions.
+
 ### 2.1 Handle Errors Using Python-Defined Exceptions
 
 #### Basic Exception Handling
@@ -421,6 +433,12 @@ except AppError:
 ---
 
 ## Section 3: Strings (18%)
+
+### Video Resources
+
+- [Python Tutorial for Beginners 2: Strings — Working with Textual Data](https://www.youtube.com/watch?v=k9TUPpGqYTo) — Corey Schafer's foundational strings tutorial, one of the most-viewed Python beginner videos ever.
+- [Python String Methods Explained — Every Beginner Must Know These!](https://www.youtube.com/watch?v=hOcrJ3feXgs) — A comprehensive walkthrough of all essential string methods with clear examples.
+- [String Methods in Python | Python Tutorial — Day #13](https://www.youtube.com/watch?v=0INvoK_T0cE) — Practical coverage of built-in string methods in a well-structured day-by-day series.
 
 ### 3.1 Machine Representation of Characters
 
@@ -651,6 +669,12 @@ text.replace("World", "Python")  # "  Hello Python  "
 ---
 
 ## Section 4: Object-Oriented Programming (34%)
+
+### Video Resources
+
+- [Python OOP Tutorial 1: Classes and Instances](https://www.youtube.com/watch?v=ZDa-Z5JzLYM) — Corey Schafer's legendary OOP series. Start here — millions of views and universally praised as the go-to OOP introduction.
+- [Python Object Oriented Programming (OOP) — Full Course for Beginners](https://www.youtube.com/watch?v=iLRZi0Gu8Go) — A thorough single-video course covering classes, inheritance, polymorphism, and more.
+- [Object Oriented Programming with Python — Full Course for Beginners](https://www.youtube.com/watch?v=Ej_02ICOIgs) — freeCodeCamp's highly rated OOP course, ideal for building a solid conceptual foundation.
 
 ### 4.1 Object-Oriented Approach
 
@@ -1054,6 +1078,12 @@ car = Car("Toyota", "Camry")
 ---
 
 ## Section 5: Miscellaneous (22%)
+
+### Video Resources
+
+- [How to Use List Comprehensions and Lambda Like a Python Pro](https://www.youtube.com/watch?v=_seqNlN70k0) — Deep dive into list comprehensions and lambda functions with pro-level techniques and examples.
+- [Programming Terms: Closures — How to Use Them and Why They Are Useful](https://www.youtube.com/watch?v=swU3c34d2NQ) — Corey Schafer explains closures with clarity and real-world use cases. Highly upvoted.
+- [Python Tutorial: File Objects — Reading and Writing to Files](https://www.youtube.com/watch?v=Uh2ebFW8OYM) — Corey Schafer's popular file I/O tutorial covering all read/write modes and the `with` statement.
 
 ### 5.1 List Comprehensions
 
